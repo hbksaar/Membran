@@ -13,7 +13,7 @@ What things you need to install the software and how to install them
 - License for Captury Live or other mocap software distribution which supports live streaming
 ```
 
-Note: From this repo, we've removed Captury Live plugin which was provided by Nils Hasler. 
+Note: From this repo, we've included Captury Live plugin which was provided by Nils Hasler. 
 
 A fully functioning distribution can be arranged by one of the authors.
 ## Built With
